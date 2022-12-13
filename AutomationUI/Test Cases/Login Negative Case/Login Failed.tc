@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login failed because email and password is wrong</description>
+   <name>Login Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9a6eba5-1e7e-4a64-bc6c-bb7b98d6f321</testCaseGuid>
+</TestCaseEntity>

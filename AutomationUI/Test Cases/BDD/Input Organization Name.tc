@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Organization Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79fca693-5ff1-44dd-9e26-9517fbd94134</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ba2605d-c703-479d-a780-efc379e6f700</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ba2605d-c703-479d-a780-efc379e6f700</id>
+      <masked>false</masked>
+      <name>org_name</name>
+   </variable>
+</TestCaseEntity>
